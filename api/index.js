@@ -35,7 +35,3 @@ app.get('*', (req, res) => {
 
 // server
 app.listen(port, () => console.log(`listening on http://localhost:${port}`));
-
-if([]){
-    console.log('j')
-}
